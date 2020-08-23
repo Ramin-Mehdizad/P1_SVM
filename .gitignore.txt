@@ -12,7 +12,6 @@ DataSet1.csv
 DataSet2.csv
 LICENSE.md
 noisy_moon_data.jpg
-pic1.png
 Project_Description.pdf
 
 
